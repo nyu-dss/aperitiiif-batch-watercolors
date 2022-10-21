@@ -2,71 +2,71 @@
   {
     "id": "watercolors-01",
     "label": "Lake Garda",
-    "manifest_url": "https://nyu-dss-serverless-iiif-presentation-test.s3.us-east-1.amazonaws.com/watercolors/watercolors-01/manifest.json",
-    "thumbnail_url": "https://twt4gwyokx4jxgo2tcptgtn4v40qajbb.lambda-url.us-east-1.on.aws/iiif/2/watercolors_watercolors-01/full/250,/0/default.jpg",
-    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Fnyu-dss-serverless-iiif-presentation-test.s3.us-east-1.amazonaws.com%2Fwatercolors%2Fwatercolors-01%2Fmanifest.json&theme=dark"
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/watercolors/watercolors-01/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/watercolors_watercolors-01/full/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fwatercolors%2Fwatercolors-01%2Fmanifest.json&theme=dark"
   },
   {
     "id": "watercolors-02",
     "label": "Murano",
-    "manifest_url": "https://nyu-dss-serverless-iiif-presentation-test.s3.us-east-1.amazonaws.com/watercolors/watercolors-02/manifest.json",
-    "thumbnail_url": "https://twt4gwyokx4jxgo2tcptgtn4v40qajbb.lambda-url.us-east-1.on.aws/iiif/2/watercolors_watercolors-02/full/250,/0/default.jpg",
-    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Fnyu-dss-serverless-iiif-presentation-test.s3.us-east-1.amazonaws.com%2Fwatercolors%2Fwatercolors-02%2Fmanifest.json&theme=dark"
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/watercolors/watercolors-02/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/watercolors_watercolors-02/full/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fwatercolors%2Fwatercolors-02%2Fmanifest.json&theme=dark"
   },
   {
     "id": "watercolors-03",
     "label": "Stockholm",
-    "manifest_url": "https://nyu-dss-serverless-iiif-presentation-test.s3.us-east-1.amazonaws.com/watercolors/watercolors-03/manifest.json",
-    "thumbnail_url": "https://twt4gwyokx4jxgo2tcptgtn4v40qajbb.lambda-url.us-east-1.on.aws/iiif/2/watercolors_watercolors-03/full/250,/0/default.jpg",
-    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Fnyu-dss-serverless-iiif-presentation-test.s3.us-east-1.amazonaws.com%2Fwatercolors%2Fwatercolors-03%2Fmanifest.json&theme=dark"
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/watercolors/watercolors-03/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/watercolors_watercolors-03/full/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fwatercolors%2Fwatercolors-03%2Fmanifest.json&theme=dark"
   },
   {
     "id": "watercolors-04",
     "label": "Utrecht",
-    "manifest_url": "https://nyu-dss-serverless-iiif-presentation-test.s3.us-east-1.amazonaws.com/watercolors/watercolors-04/manifest.json",
-    "thumbnail_url": "https://twt4gwyokx4jxgo2tcptgtn4v40qajbb.lambda-url.us-east-1.on.aws/iiif/2/watercolors_watercolors-04/full/250,/0/default.jpg",
-    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Fnyu-dss-serverless-iiif-presentation-test.s3.us-east-1.amazonaws.com%2Fwatercolors%2Fwatercolors-04%2Fmanifest.json&theme=dark"
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/watercolors/watercolors-04/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/watercolors_watercolors-04/full/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fwatercolors%2Fwatercolors-04%2Fmanifest.json&theme=dark"
   },
   {
     "id": "watercolors-05",
     "label": "Germantown",
-    "manifest_url": "https://nyu-dss-serverless-iiif-presentation-test.s3.us-east-1.amazonaws.com/watercolors/watercolors-05/manifest.json",
-    "thumbnail_url": "https://twt4gwyokx4jxgo2tcptgtn4v40qajbb.lambda-url.us-east-1.on.aws/iiif/2/watercolors_watercolors-05_1/full/250,/0/default.jpg",
-    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Fnyu-dss-serverless-iiif-presentation-test.s3.us-east-1.amazonaws.com%2Fwatercolors%2Fwatercolors-05%2Fmanifest.json&theme=dark"
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/watercolors/watercolors-05/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/watercolors_watercolors-05_1/full/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fwatercolors%2Fwatercolors-05%2Fmanifest.json&theme=dark"
   },
   {
     "id": "watercolors-06",
     "label": "Charlottesville",
-    "manifest_url": "https://nyu-dss-serverless-iiif-presentation-test.s3.us-east-1.amazonaws.com/watercolors/watercolors-06/manifest.json",
-    "thumbnail_url": "https://twt4gwyokx4jxgo2tcptgtn4v40qajbb.lambda-url.us-east-1.on.aws/iiif/2/watercolors_watercolors-06/full/250,/0/default.jpg",
-    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Fnyu-dss-serverless-iiif-presentation-test.s3.us-east-1.amazonaws.com%2Fwatercolors%2Fwatercolors-06%2Fmanifest.json&theme=dark"
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/watercolors/watercolors-06/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/watercolors_watercolors-06/full/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fwatercolors%2Fwatercolors-06%2Fmanifest.json&theme=dark"
   },
   {
     "id": "watercolors-07",
     "label": "Budapest",
-    "manifest_url": "https://nyu-dss-serverless-iiif-presentation-test.s3.us-east-1.amazonaws.com/watercolors/watercolors-07/manifest.json",
-    "thumbnail_url": "https://twt4gwyokx4jxgo2tcptgtn4v40qajbb.lambda-url.us-east-1.on.aws/iiif/2/watercolors_watercolors-07/full/250,/0/default.jpg",
-    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Fnyu-dss-serverless-iiif-presentation-test.s3.us-east-1.amazonaws.com%2Fwatercolors%2Fwatercolors-07%2Fmanifest.json&theme=dark"
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/watercolors/watercolors-07/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/watercolors_watercolors-07/full/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fwatercolors%2Fwatercolors-07%2Fmanifest.json&theme=dark"
   },
   {
     "id": "watercolors-08",
     "label": "Copenhagen",
-    "manifest_url": "https://nyu-dss-serverless-iiif-presentation-test.s3.us-east-1.amazonaws.com/watercolors/watercolors-08/manifest.json",
-    "thumbnail_url": "https://twt4gwyokx4jxgo2tcptgtn4v40qajbb.lambda-url.us-east-1.on.aws/iiif/2/watercolors_watercolors-08/full/250,/0/default.jpg",
-    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Fnyu-dss-serverless-iiif-presentation-test.s3.us-east-1.amazonaws.com%2Fwatercolors%2Fwatercolors-08%2Fmanifest.json&theme=dark"
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/watercolors/watercolors-08/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/watercolors_watercolors-08/full/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fwatercolors%2Fwatercolors-08%2Fmanifest.json&theme=dark"
   },
   {
     "id": "watercolors-09",
     "label": "Praia do Rosa",
-    "manifest_url": "https://nyu-dss-serverless-iiif-presentation-test.s3.us-east-1.amazonaws.com/watercolors/watercolors-09/manifest.json",
-    "thumbnail_url": "https://twt4gwyokx4jxgo2tcptgtn4v40qajbb.lambda-url.us-east-1.on.aws/iiif/2/watercolors_watercolors-09/full/250,/0/default.jpg",
-    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Fnyu-dss-serverless-iiif-presentation-test.s3.us-east-1.amazonaws.com%2Fwatercolors%2Fwatercolors-09%2Fmanifest.json&theme=dark"
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/watercolors/watercolors-09/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/watercolors_watercolors-09/full/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fwatercolors%2Fwatercolors-09%2Fmanifest.json&theme=dark"
   },
   {
     "id": "watercolors-10",
     "label": "watercolors-10",
-    "manifest_url": "https://nyu-dss-serverless-iiif-presentation-test.s3.us-east-1.amazonaws.com/watercolors/watercolors-10/manifest.json",
-    "thumbnail_url": "https://twt4gwyokx4jxgo2tcptgtn4v40qajbb.lambda-url.us-east-1.on.aws/iiif/2/watercolors_watercolors-10/full/250,/0/default.jpg",
-    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Fnyu-dss-serverless-iiif-presentation-test.s3.us-east-1.amazonaws.com%2Fwatercolors%2Fwatercolors-10%2Fmanifest.json&theme=dark"
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/watercolors/watercolors-10/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/watercolors_watercolors-10/full/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fwatercolors%2Fwatercolors-10%2Fmanifest.json&theme=dark"
   }
 ]
