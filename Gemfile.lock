@@ -1,5 +1,5 @@
 GIT
-  remote: https://github.com/nyu-dss/aperitiiif-cli.git
+  remote: https://github.com/middlicomp/aperitiiif-cli.git
   revision: a91d2e30228ef223348713a021adef9422d98eee
   tag: v0.1.2
   specs:
